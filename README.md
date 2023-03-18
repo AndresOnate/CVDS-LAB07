@@ -21,3 +21,7 @@ Verificar funcionamiento de app MyShutle en mi cuenta de la nube de Azure.
 ![image](https://user-images.githubusercontent.com/63562181/226107131-d21d805b-7342-4a32-b460-408dd9920fbb.png)
 
 - Buscar la opción de Logs Stream, ingresar allí.Nos debe salir un mensaje que nosindica que primero debemos activar ó configurar loslogs.
+
+Iniciamos la aplicación web y entregamos a Secuencia de registro:
+
+![image](https://user-images.githubusercontent.com/63562181/226107719-74de2351-12a7-4c5b-8b27-a073db9fc1ad.png)
