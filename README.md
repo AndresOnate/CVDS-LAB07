@@ -1,1 +1,3 @@
-# CVDS-LAB07
+# CVDS-Lab7
+## Mateo Olaya Garzón - Andrés Camilo Oñate Quimbayo
+--- 
