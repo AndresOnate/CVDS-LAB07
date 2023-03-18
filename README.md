@@ -70,5 +70,14 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 
 - Buscar en ADO los pipelines, y editar el pipeline de nuestro proyecto.
   Activar elcheckbox de “continuousintegration” en el menú Triggers. —> Guardar.
+  
 ![image](https://user-images.githubusercontent.com/63562181/226109092-2ef4e42c-d212-4e53-b720-8fc8894f7845.png)
+
+- Ahora cuando hagamos un push,se ejecutará el pipeline de construcción de la nueva versión de nuestro proyecto.
+- Para desplegarlo, ir al Menu Releases y manualmente crear un release.
+
+![image](https://user-images.githubusercontent.com/63562181/226109249-fcbd81dc-ca61-4dc8-9e2d-74deded76f29.png)
+
+![image](https://user-images.githubusercontent.com/63562181/226109296-d86f60be-0716-4fad-bd49-f180fcf5b1df.png)
+
 
