@@ -66,3 +66,6 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 
 ![image](https://user-images.githubusercontent.com/63562181/226108990-0593d2b7-7617-41e5-abb0-2c22531a90ef.png)
 
+## ContinuousIntegration - Activando la opción integración continua en el Pipeline.
+
+- Buscar en ADO los pipelines, y editar el pipeline de nuestro proyecto.
