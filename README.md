@@ -89,7 +89,7 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 ![image](https://user-images.githubusercontent.com/63562181/226109534-9d3a56b3-e7c2-4321-9c54-d961416ab0a4.png)
 
 - Revisa las propiedades de conexión del proyecto java a la base de datos.
--
+
 ![image](https://user-images.githubusercontent.com/63562181/226109566-b94088b3-d95a-497e-af37-a4b4b96f3b57.png)
 
 
