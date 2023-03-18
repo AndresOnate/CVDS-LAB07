@@ -58,5 +58,9 @@ Ingresamos a AzureDevOps(ADO):
 
 ![image](https://user-images.githubusercontent.com/63562181/226108389-79abd1b0-e8a9-433d-98eb-ac4116be3880.png)
 
-- Ejecute elcomando gitclone para descargar el proyecto.
+- Ejecute el comando gitclone para descargar el proyecto.
+
+![image](https://user-images.githubusercontent.com/63562181/226108942-c70ee15b-46be-49f8-a245-c3797538ae19.png)
+
+
 -
