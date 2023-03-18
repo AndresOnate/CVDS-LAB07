@@ -11,3 +11,5 @@ Verificar funcionamiento de app MyShutle en mi cuenta de la nube de Azure.
 ## Troubleshooting - Activando logs
 
 1. Revisión de logs del sistema:
+
+- Ingresar al losrecursos de nuestra cuenta en la nube de Azure.
