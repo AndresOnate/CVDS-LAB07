@@ -99,3 +99,7 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 - Actualizar información de conexión a la BD en la clase.
 
 ![image](https://user-images.githubusercontent.com/63562181/226110410-935ca455-00e4-4782-b2e9-826a6695d2e3.png)
+
+- Subir los cambios al repositorio remoto.
+
+- Validarsi ya funciona el ajuste.
