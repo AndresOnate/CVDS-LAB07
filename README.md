@@ -80,4 +80,4 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 
 ![image](https://user-images.githubusercontent.com/63562181/226109296-d86f60be-0716-4fad-bd49-f180fcf5b1df.png)
 
-
+## Bugfixing - Solucionando un Bug
