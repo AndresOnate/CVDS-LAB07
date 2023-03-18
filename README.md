@@ -80,4 +80,9 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 
 ![image](https://user-images.githubusercontent.com/63562181/226109296-d86f60be-0716-4fad-bd49-f180fcf5b1df.png)
 
+![image](https://user-images.githubusercontent.com/63562181/226109507-654a54ee-6635-43d2-a589-4225f3cff9df.png)
+
 ## Bugfixing - Solucionando un Bug
+
+- Revisar en qué parte está ubicada la información de la base de datos.
+
