@@ -26,8 +26,37 @@ Iniciamos la aplicación web y entregamos a Secuencia de registro:
 
 ![image](https://user-images.githubusercontent.com/63562181/226107719-74de2351-12a7-4c5b-8b27-a073db9fc1ad.png)
 
-- Volver a la página an terior y presionar en la opción Configure Logs.
-- Vamos a configurarlos de la siguiente manera:
 - Application logging: ON(Level: Error)
+- Application login (Blob): OF
+- Web server logging: File System
+- Quota 35 MB
+- Retention Period: 3
+- Detailed error messages: ON
+- Failed request tracing: ON
+- —> Guardar.
 
 ![image](https://user-images.githubusercontent.com/63562181/226107959-a22532ec-ff5c-49bf-8834-45a4fe9ce2b9.png)
+
+- Revisar qué está pasando a la hora de hacer login.
+
+![image](https://user-images.githubusercontent.com/63562181/226108161-977ad2f3-c4af-4b88-bdd3-6946e3c17209.png)
+
+En Secuencia de registro
+
+![image](https://user-images.githubusercontent.com/63562181/226108493-23d58e0b-6efb-4728-8e75-91b285113128.png)
+
+This error means that there was a problem while processing the request. The request was received by the Web server, but during processing a fatal error occurred, causing the 500 error.
+
+- Revisión del código fuente
+
+Descargue el repositorio de MyShuttle de su cuenta de AzureDevOps(ADO).
+Ingresamos a AzureDevOps(ADO):
+
+![image](https://user-images.githubusercontent.com/63562181/226108350-18f90039-cce1-4ad8-a77f-14b58664d579.png)
+
+- Busque el repositorio MyShuttle en su cuenta de ADO
+
+![image](https://user-images.githubusercontent.com/63562181/226108389-79abd1b0-e8a9-433d-98eb-ac4116be3880.png)
+
+- Ejecute elcomando gitclone para descargar el proyecto.
+-
