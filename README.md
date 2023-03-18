@@ -69,6 +69,6 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 ## ContinuousIntegration - Activando la opción integración continua en el Pipeline.
 
 - Buscar en ADO los pipelines, y editar el pipeline de nuestro proyecto.
-
+  Activar elcheckbox de “continuousintegration” en el menú Triggers. —> Guardar.
 ![image](https://user-images.githubusercontent.com/63562181/226109092-2ef4e42c-d212-4e53-b720-8fc8894f7845.png)
 
