@@ -92,4 +92,8 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 
 ![image](https://user-images.githubusercontent.com/63562181/226109566-b94088b3-d95a-497e-af37-a4b4b96f3b57.png)
 
+- Validar cuales son los datos de conexión correctos.
 
+![image](https://user-images.githubusercontent.com/63562181/226109782-038bf0bb-732a-4170-b99b-ac4486c70f67.png)
+
+- Actualizar información de conexión a la BD en la clase.
