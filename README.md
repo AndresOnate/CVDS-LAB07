@@ -12,4 +12,12 @@ Verificar funcionamiento de app MyShutle en mi cuenta de la nube de Azure.
 
 1. Revisión de logs del sistema:
 
-- Ingresar al losrecursos de nuestra cuenta en la nube de Azure.
+- Ingresar al los recursos de nuestra cuenta en la nube de Azure.
+
+![image](https://user-images.githubusercontent.com/63562181/226107089-47f33687-05ad-4483-8b24-268bc79c225f.png)
+
+- Entrar al recurso de nuestra aplicaciónweb.
+
+![image](https://user-images.githubusercontent.com/63562181/226107131-d21d805b-7342-4a32-b460-408dd9920fbb.png)
+
+- Buscar la opción de Logs Stream, ingresar allí.Nos debe salir un mensaje que nosindica que primero debemos activar ó configurar loslogs.
