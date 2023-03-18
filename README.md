@@ -62,5 +62,7 @@ Ingresamos a AzureDevOps(ADO):
 
 ![image](https://user-images.githubusercontent.com/63562181/226108942-c70ee15b-46be-49f8-a245-c3797538ae19.png)
 
+Dado que generaba error al usar las credenciales generadas, se ingresa las credenciales de la universidad:
 
--
+![image](https://user-images.githubusercontent.com/63562181/226108990-0593d2b7-7617-41e5-abb0-2c22531a90ef.png)
+
