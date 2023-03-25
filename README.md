@@ -109,7 +109,7 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 
 ## A Quick Start with Spring Boot and Spring Data JPA
 
-- Revisemoslasclases: DataAccess.java y veamosla manera en la que se crearon los métodos: login, employeeFares, getFareTotal.
+- Revisemos las clases: DataAccess.java y veamosla manera en la que se crearon los métodos: login, employeeFares, getFareTotal.
 ```
 private static PreparedStatement LOGIN;
 private static PreparedStatement FARES;
