@@ -128,3 +128,5 @@ static {
 }
  ```
 - Actualmente el proyecto se conecta a la base de datos usando JDBC (Java Data Base Connection)
+
+`private static final String DB_DRIVER = "com.mysql.jdbc.Driver";`
