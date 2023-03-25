@@ -105,4 +105,6 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 - Validarsi ya funciona el ajuste.
 
 --- 
+## PARTE II. USANDO SPRING DATA DESDE CERO
+
 ## A Quick Start with Spring Boot and Spring Data JPA
