@@ -153,3 +153,13 @@ Vamos a src/main/java y confirmamos que existe la clase con la etiqueta @SpringB
 
 
 ### application.properties
+
+Ingresamos al archivo application.properties y configuraremos las propiedades para nuestra base de datos H2.
+
+```
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=password
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+```
