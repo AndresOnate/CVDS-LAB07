@@ -130,3 +130,5 @@ static {
 - Actualmente el proyecto se conecta a la base de datos usando JDBC (Java Data Base Connection)
 
 `private static final String DB_DRIVER = "com.mysql.jdbc.Driver";`
+
+- Crea un nuevo repositorio en tu cuenta de github llamado cvds-7, y sigue lasinstrucciones delsiguiente tutorial de spring.
