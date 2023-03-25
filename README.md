@@ -102,9 +102,6 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 
 - Subir los cambios al repositorio remoto.
 
-- Validarsi ya funciona el ajuste.
-
---- 
 Configuración final:
 ```
 jdbc:mysql://olayaonateserver.mysql.database.azure.com:3306/alm?useSSL=false&requireSSL=false&autoReconnect=true&user=mysqldbuser@olayaonateserver&password=P2ssw0rd@123
