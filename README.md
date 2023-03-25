@@ -107,7 +107,7 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 --- 
 ## PARTE II. USANDO SPRING DATA DESDE CERO
 
-## A Quick Start with Spring Boot and Spring Data JPA
+
 
 - Revisemos las clases: DataAccess.java y veamosla manera en la que se crearon los métodos: login, employeeFares, getFareTotal.
 ```
@@ -132,3 +132,9 @@ static {
 `private static final String DB_DRIVER = "com.mysql.jdbc.Driver";`
 
 - Crea un nuevo repositorio en tu cuenta de github llamado cvds-7, y sigue lasinstrucciones delsiguiente tutorial de spring.
+
+--- 
+
+## A Quick Start with Spring Boot and Spring Data JPA
+
+1. Let’s Get Started
