@@ -110,3 +110,20 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 ## A Quick Start with Spring Boot and Spring Data JPA
 
 - Revisemoslasclases: DataAccess.java y veamosla manera en la que se crearon los métodos: login, employeeFares, getFareTotal.
+```
+	private static PreparedStatement LOGIN;
+	private static PreparedStatement FARES;
+	private static PreparedStatement GETTOTAL;
+	static {
+		try {
+			LOGIN = theConnection.prepareStatement("SELECT * FROM employees WHERE username=? AND password=?");
+			FARES = theConnection.prepareStatement("SELECT * FROM fares WHERE emp_id=?");
+			GETTOTAL = theConnection.prepareStatement("SELECT SUM(fare_charge) as totalfare, sum(driver_fee) as totaldriverfee FROM fares WHERE emp_id=?");
+		}
+		catch (SQLException sqlEx) {
+			// Eh.... just give up
+			sqlEx.printStackTrace();
+			System.exit(-1);
+		}
+	}
+ ```
