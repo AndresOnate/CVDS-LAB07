@@ -127,3 +127,4 @@ static {
 	}
 }
  ```
+- Actualmente el proyecto se conecta a la base de datos usando JDBC (Java Data Base Connection)
