@@ -5,9 +5,18 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
+
 @Entity
 public class Employee {
-    @Id
+
+    public Employee(String firstName, String lastName, String role, Double salary) {
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.role = role;
+		this.salary = salary;
+	}
+
+	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long employeeId;
 	private String firstName;

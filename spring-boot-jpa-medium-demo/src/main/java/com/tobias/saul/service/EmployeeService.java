@@ -3,9 +3,12 @@ package com.tobias.saul.service;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
 import com.tobias.saul.model.Employee;
 import com.tobias.saul.repository.EmployeeRepository;
 
+@Service
 public class EmployeeService {
 	
 	private final EmployeeRepository employeeRepository;
