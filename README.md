@@ -105,6 +105,23 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 - Validarsi ya funciona el ajuste.
 
 --- 
+Configuración final:
+```
+jdbc:mysql://olayaonateserver.mysql.database.azure.com:3306/alm?useSSL=false&requireSSL=false&autoReconnect=true&user=mysqldbuser@olayaonateserver&password=P2ssw0rd@123
+```
+
+![image](https://user-images.githubusercontent.com/63562181/227722055-2d21e078-96c2-40e8-9c2f-eb8e76b27921.png)
+
+Confirmamos que esta haciendo Login:
+
+![image](https://user-images.githubusercontent.com/63562181/227722092-b48f45f9-8ec8-4f5a-a371-bb1d32ec2593.png)
+
+![image](https://user-images.githubusercontent.com/63562181/227722110-244067dd-e7b8-4d22-885b-3c6828e577a1.png)
+
+Base de datos alm:
+
+![image](https://user-images.githubusercontent.com/63562181/227722130-ff6bd57f-1df2-4447-aa5f-d2ddcfeccb89.png)
+
 ## PARTE II. USANDO SPRING DATA DESDE CERO
 
 
