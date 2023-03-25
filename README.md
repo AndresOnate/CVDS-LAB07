@@ -137,4 +137,16 @@ static {
 
 ## A Quick Start with Spring Boot and Spring Data JPA
 
-1. Let’s Get Started
+1.Ingresamos a la pagina https://start.spring.io/ e ingresamos los datos del tutorial:
+
+![image](https://user-images.githubusercontent.com/63562181/227720139-cd6dda76-5259-415e-a6a5-6af05028c571.png)
+
+Damos clic en Generate. se descarga un archivo .zip el cual abrimos con el IDE visual code y verificamos la información del POM.xml:
+
+![image](https://user-images.githubusercontent.com/63562181/227720339-d2f6f772-0a6c-4f8e-b565-f0fac2744640.png)
+
+Vamos a src/main/java y confirmamos que existe la clase con la etiqueta @SpringBootApplication:
+
+![image](https://user-images.githubusercontent.com/63562181/227720456-1e4da455-3008-49bf-a396-81386ed3a226.png)
+
+2. application.properties
