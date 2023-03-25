@@ -108,3 +108,5 @@ Dado que generaba error al usar las credenciales generadas, se ingresa las crede
 ## PARTE II. USANDO SPRING DATA DESDE CERO
 
 ## A Quick Start with Spring Boot and Spring Data JPA
+
+- Revisemoslasclases: DataAccess.java y veamosla manera en la que se crearon los métodos: login, employeeFares, getFareTotal.
