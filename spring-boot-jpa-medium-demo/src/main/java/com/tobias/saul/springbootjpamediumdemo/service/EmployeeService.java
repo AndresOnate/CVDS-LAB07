@@ -1,12 +1,13 @@
-package com.tobias.saul.service;
+package com.tobias.saul.springbootjpamediumdemo.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.tobias.saul.model.Employee;
-import com.tobias.saul.repository.EmployeeRepository;
+import com.tobias.saul.springbootjpamediumdemo.model.Employee;
+import com.tobias.saul.springbootjpamediumdemo.repository.EmployeeRepository;
+
 
 @Service
 public class EmployeeService {

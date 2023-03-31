@@ -6,8 +6,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import com.tobias.saul.model.Employee;
-import com.tobias.saul.service.EmployeeService;
+import com.tobias.saul.springbootjpamediumdemo.model.Employee;
+import com.tobias.saul.springbootjpamediumdemo.service.EmployeeService;
 
 @SpringBootApplication
 public class SpringBootJpaMediumDemoApplication {

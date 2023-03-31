@@ -1,0 +1,4 @@
+com\tobias\saul\springbootjpamediumdemo\model\Employee.class
+com\tobias\saul\springbootjpamediumdemo\repository\EmployeeRepository.class
+com\tobias\saul\springbootjpamediumdemo\service\EmployeeService.class
+com\tobias\saul\springbootjpamediumdemo\SpringBootJpaMediumDemoApplication.class
