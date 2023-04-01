@@ -371,5 +371,7 @@ public class EmployeeService {
 	}	
 }
 ```
+Comprobamos que la aplicación esta corriendo:
 
-```
+![image](https://user-images.githubusercontent.com/63562181/229292540-a6127c36-ade4-4f83-b49d-50dd931e16c5.png)
+
