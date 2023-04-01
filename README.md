@@ -371,5 +371,47 @@ public class EmployeeService {
 	}	
 }
 ```
+Comprobamos que la aplicación esta corriendo:
 
-```
+![image](https://user-images.githubusercontent.com/63562181/229292540-a6127c36-ade4-4f83-b49d-50dd931e16c5.png)
+
+Iniciamos docker:
+
+![image](https://user-images.githubusercontent.com/63562181/229293132-9f9957ef-d9f4-4066-bff9-636583544901.png)
+
+Descarmagameos la imagen mysql
+
+![image](https://user-images.githubusercontent.com/63562181/229293213-2aa27887-5a8d-437b-8379-35ce14f79aae.png)
+
+Correr contenedor de MySQL
+
+![image](https://user-images.githubusercontent.com/63562181/229293271-8717dcf7-a6f6-4cfd-ba40-bee7b6af7e45.png)
+
+Descargar un cliente de base de datos: DBeaver
+
+![image](https://user-images.githubusercontent.com/63562181/229293569-e76f130a-b416-4153-8a06-f1c25a862fc4.png)
+
+![image](https://user-images.githubusercontent.com/63562181/229293857-8ff6f014-f6d9-4694-a765-9c788d61bc83.png)
+
+![image](https://user-images.githubusercontent.com/63562181/229293900-a5d4daad-5908-4969-85d6-46dd1df77f6f.png)
+
+- Crear una tabla de la base de datos:
+
+![image](https://user-images.githubusercontent.com/63562181/229294920-6fe219c8-0543-481b-8bd2-b512d10fd41e.png)
+
+![image](https://user-images.githubusercontent.com/63562181/229295030-c0cfa5d6-9437-4399-aace-13cb3ee32f13.png)
+
+- Buscar cómo conectar nuestro proyecto de spring a una base de datos MySql.
+
+Agremos la dependecia de mysql al pom:
+
+![image](https://user-images.githubusercontent.com/63562181/229296087-f0024838-2741-4254-8e55-93dce58312b9.png)
+
+Modificamos las propiedades de la aplicación:
+
+![image](https://user-images.githubusercontent.com/63562181/229296115-db318384-05df-4e97-ae09-dbcc6c09aa9f.png)
+
+Ejecutamos y comprobamos que está funcionando:
+
+![image](https://user-images.githubusercontent.com/63562181/229296184-d99e0b11-d248-49d5-8814-4f8a0361e470.png)
+
