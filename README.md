@@ -375,3 +375,15 @@ Comprobamos que la aplicación esta corriendo:
 
 ![image](https://user-images.githubusercontent.com/63562181/229292540-a6127c36-ade4-4f83-b49d-50dd931e16c5.png)
 
+Iniciamos docker:
+
+![image](https://user-images.githubusercontent.com/63562181/229293132-9f9957ef-d9f4-4066-bff9-636583544901.png)
+
+Descarmagameos la imagen mysql
+
+![image](https://user-images.githubusercontent.com/63562181/229293213-2aa27887-5a8d-437b-8379-35ce14f79aae.png)
+
+Correr contenedor de MySQL
+
+![image](https://user-images.githubusercontent.com/63562181/229293271-8717dcf7-a6f6-4cfd-ba40-bee7b6af7e45.png)
+
