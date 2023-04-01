@@ -396,3 +396,5 @@ Descargar un cliente de base de datos: DBeaver
 ![image](https://user-images.githubusercontent.com/63562181/229293900-a5d4daad-5908-4969-85d6-46dd1df77f6f.png)
 
 - Crear una tabla de la base de datos:
+
+![image](https://user-images.githubusercontent.com/63562181/229294920-6fe219c8-0543-481b-8bd2-b512d10fd41e.png)
