@@ -390,3 +390,6 @@ Correr contenedor de MySQL
 Descargar un cliente de base de datos: DBeaver
 
 ![image](https://user-images.githubusercontent.com/63562181/229293569-e76f130a-b416-4153-8a06-f1c25a862fc4.png)
+
+![image](https://user-images.githubusercontent.com/63562181/229293857-8ff6f014-f6d9-4694-a765-9c788d61bc83.png)
+
