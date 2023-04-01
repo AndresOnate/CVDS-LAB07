@@ -401,4 +401,17 @@ Descargar un cliente de base de datos: DBeaver
 
 ![image](https://user-images.githubusercontent.com/63562181/229295030-c0cfa5d6-9437-4399-aace-13cb3ee32f13.png)
 
-- Buscarcómo conectar nuestro proyecto de spring a una base de datos MySql.
+- Buscar cómo conectar nuestro proyecto de spring a una base de datos MySql.
+
+Agremos la dependecia de mysql al pom:
+
+![image](https://user-images.githubusercontent.com/63562181/229296087-f0024838-2741-4254-8e55-93dce58312b9.png)
+
+Modificamos las propiedades de la aplicación:
+
+![image](https://user-images.githubusercontent.com/63562181/229296115-db318384-05df-4e97-ae09-dbcc6c09aa9f.png)
+
+Ejecutamos y comprobamos que está funcionando:
+
+![image](https://user-images.githubusercontent.com/63562181/229296184-d99e0b11-d248-49d5-8814-4f8a0361e470.png)
+
